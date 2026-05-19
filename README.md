@@ -4,7 +4,7 @@
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">
 </a>
 <br><br>
-<a href="https://github.com/Darthroid/Canvo-documentation/blob/main/privacy.md">
+<a href="https://raw.githubusercontent.com/Darthroid/Canvo-documentation/refs/heads/main/privacy.md">
   Privacy Policy
 </a>
 <br><br>
